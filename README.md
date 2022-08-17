@@ -12,7 +12,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/3-column-preview-card-component/Screen Shot 2022-08-17 at 3.47.08 PM.png
+g)
 
 
 ## My process
