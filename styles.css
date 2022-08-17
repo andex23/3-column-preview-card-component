@@ -19,9 +19,14 @@
 }
 
 body {
-  font-size: 15px
-  font-family: Lexend;
-  font-weight: 400;
+ font-family: "Lexend Deca", sans-serif;
+  background-color: var(--neu-gray);
+  font-size: 15px;
+  overflow: hidden;
+  display: flex;
+  height: 100vh;
+  overflow: auto;
+  color: var(--neu-white);
 
 }
 
